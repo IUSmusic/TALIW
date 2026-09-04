@@ -3,6 +3,8 @@ Demo:
   <source src="TALI-W-landing.mp4" type="video/mp4">
 </video>
 
+[▶ TALI-W flight and landing sequence](TALI-W-landing.mp4)
+
 **Thoracic Auxiliary Limb Integration - modular wearable robotics and autonomous morphing-flight research**
 
 Project TALI investigates a non-surgical wearable platform built around a shared thoraco-pelvic chassis (`TALI-Core`) and interchangeable auxiliary modules. The project currently defines two distinct module families:
