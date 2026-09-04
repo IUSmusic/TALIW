@@ -1,4 +1,4 @@
-# Project TALI
+
 
 **Thoracic Auxiliary Limb Integration - modular wearable robotics and autonomous morphing-flight research**
 
